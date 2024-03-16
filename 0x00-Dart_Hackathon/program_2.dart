@@ -1,15 +1,15 @@
-double multiplyNumbers(double num1, double num2) {
+double multiplyNumbers(double num1, double num2){
   return num1 * num2;
 }
 
-double divideNumbers(double num1, double num2) {
+double divideNumbers(double num1, double num2){
   if (num2 == 0) {
     return double.infinity;
   }
   return num1 / num2;
 }
 
-void main() {
+void main(){
   double num1 = 10.0;
   double num2 = 3.0;
 
