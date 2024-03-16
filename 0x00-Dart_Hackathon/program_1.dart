@@ -5,5 +5,5 @@ void main() {
   String hobby = "Hiking";
 
   print(
-      "My name is $name aged $age Years old and I'm from $school. My hobby is $hobby");
+      "My name is $name aged $age years old and I'm from $school. My hobby is $hobby");
 }
